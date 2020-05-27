@@ -7,5 +7,6 @@ public static void satHelloGit()
 {
 	System.out.println("hello git!");
 	System.out.println("hello git!更新1");
+	System.out.println("hello git!创建分支");
 }
 }
