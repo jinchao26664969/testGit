@@ -11,5 +11,6 @@ public static void satHelloGit()
 	System.out.println("hello git!主线添加");
 	System.out.println("分支添加");
 	System.out.println("第二次提交前更新");
+	System.out.println("在线添加");
 }
 }
