@@ -10,5 +10,6 @@ public static void satHelloGit()
 	System.out.println("hello git!创建分支");
 	System.out.println("hello git!主线添加");
 	System.out.println("分支添加");
+	System.out.println("在线添加");
 }
 }
